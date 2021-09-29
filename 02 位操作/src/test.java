@@ -1,5 +1,3 @@
-import java.lang.reflect.Array;
-
 public class test {
     public static int Solution(int[] a){
         int ero = 0;
